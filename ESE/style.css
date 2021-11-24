@@ -1,0 +1,27 @@
+.content{
+    max-width: 1000px;
+    margin:auto;
+}
+body {
+    background-image: url("http://www.pptbackgrounds.org/uploads/hardworking-student-powerpoint-templates.JPG");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: black;
+  }
+  p {
+    text-align: center;
+  }
+  image {
+vertical-align: middle;
+}
+.button {
+  background-color: #008CBA;; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
